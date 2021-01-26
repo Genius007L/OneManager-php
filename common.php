@@ -2442,5 +2442,5 @@ function render_list($path = '', $files = [])
       </form>
       </center>
     </div>
-            ';
+';
 }
